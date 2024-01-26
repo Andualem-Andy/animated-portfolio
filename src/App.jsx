@@ -3,10 +3,10 @@ import Navbar from "./components/navbar/Navbar";
 
 const App = () => {
   return <div>
-    <section> 
+    <section id="HomePage"> 
     <Navbar />
     </section>
-    <section>Parallax</section>
+    <section id="Services">Parallax</section>
     <section>Services</section>
     <section>Parallax</section>
     <section>Portfolio1</section>
