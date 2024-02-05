@@ -8,11 +8,11 @@ const App = () => {
     </section>
     <section id="Services">Parallax</section>
     <section>Services</section>
-    <section>Parallax</section>
+    <section id="Portfolio">Parallax</section>
     <section>Portfolio1</section>
     <section>Portfolio2</section> 
     <section>Portfolio3</section>
-    <section>Contact</section>
+    <section id="Contact">Contact</section>
   </div>;
 };
 
